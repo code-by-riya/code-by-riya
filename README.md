@@ -6,6 +6,6 @@ Core skills
 
 Mobile: Appium (UiAutomator2, XCUITest), emulators/simulators, real devices
 Web: Selenium WebDriver (Java)
-Test frameworks: TestNG / JUnit; reporting with Allure/Surefire
+Test frameworks: TestNG; reporting with Allure/Surefire
 CI & infra: GitHub Actions, Docker, BrowserStack / Sauce Labs / Firebase Test Lab
 Practices: POM, data-driven tests, parallel runs, reliable locators & explicit waits
